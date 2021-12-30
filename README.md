@@ -1,2 +1,2 @@
-# Dockerfile
-Dockerfile
+FROM busybox
+CMD echo "Hello world!"
